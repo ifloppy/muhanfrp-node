@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="frpnode.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="5" Y="24"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="global.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="15"/>
+        <UsageCount Value="64"/>
+      </Unit>
+      <Unit>
+        <Filename Value="common.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="2"/>
+        <CursorPos X="10" Y="43"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frpcontroller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="8" Y="30"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="httpserver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="44"/>
+        <CursorPos X="72" Y="74"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fpTOML\TOML.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="17"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fpTOML\Scanner.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="400"/>
+        <CursorPos Y="421"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="10" Y="110"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="677"/>
+        <CursorPos X="14" Y="683"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\sysutils\sysunih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="10" Y="48"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="926"/>
+        <CursorPos X="11" Y="950"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\fcl-process\src\processbody.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="638"/>
+        <CursorPos X="3" Y="642"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\fcl-web\src\base\fphttpserver.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1462"/>
+        <CursorPos X="3" Y="1466"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\fcl-web\src\base\httpdefs.pp"/>
+        <UnitName Value="HTTPDefs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1818"/>
+        <CursorPos X="3" Y="1821"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\fcl-web\src\base\httpprotocol.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="53" Y="35"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="208"/>
+        <CursorPos X="10" Y="231"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\sysutils\filutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="317"/>
+        <CursorPos X="3" Y="319"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\win\sysutils.pp"/>
+        <UnitName Value="SysUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="886"/>
+        <CursorPos X="3" Y="888"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\fcl-process\src\pipes.pp"/>
+        <UnitName Value="Pipes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="96"/>
+        <CursorPos X="21" Y="124"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1014"/>
+        <CursorPos X="15" Y="1036"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1305"/>
+        <CursorPos X="31" Y="1315"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\fcl-base\src\streamio.pp"/>
+        <UnitName Value="StreamIO"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="122"/>
+        <CursorPos X="17" Y="154"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\inc\text.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="252"/>
+        <CursorPos X="17" Y="259"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="33"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\packages\sdl\src\logger.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="145"/>
+        <CursorPos X="30" Y="179"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\classes\stringl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1468"/>
+        <CursorPos X="3" Y="1461"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="80" Column="29" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="79" Column="34" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="79" Column="38" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="74" Column="22" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="77" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="82" Column="28" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="74" Column="6" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="78" Column="17" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="76" Column="16" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="76" Column="10" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="41" Column="19" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="72" Column="10" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="frpnode.lpr"/>
+        <Caret Line="29" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="httpserver.pas"/>
+        <Caret Line="17" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="httpserver.pas"/>
+        <Caret Line="30" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="httpserver.pas"/>
+        <Caret Line="41" Column="19" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="httpserver.pas"/>
+        <Caret Line="40" Column="9" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="httpserver.pas"/>
+        <Caret Line="87" Column="35" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="28" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="75" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="75" Column="30" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <Caret Line="1036" Column="15" TopLine="1014"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="82" Column="12" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="83" Column="52" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="73" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="82" Column="9" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="84" Column="22" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="frpcontroller.pas"/>
+        <Caret Line="78" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="common.pas"/>
+        <Caret Line="48" Column="18" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="common.pas"/>
+        <Caret Line="43" Column="10" TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="FrpProcess.Parameters"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
