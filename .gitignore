@@ -1,0 +1,7 @@
+/backup
+/lib
+/test
+/frpnode.exe
+/frpnode.dbg
+/frpnode
+*.json
