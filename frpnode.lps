@@ -8,21 +8,23 @@
       <Unit>
         <Filename Value="frpnode.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos X="5" Y="24"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="55" Y="21"/>
         <UsageCount Value="64"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="global.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="40" Y="15"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="19" Y="38"/>
         <UsageCount Value="64"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="common.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="5"/>
         <TopLine Value="2"/>
         <CursorPos X="10" Y="43"/>
         <UsageCount Value="63"/>
@@ -31,8 +33,7 @@
       <Unit>
         <Filename Value="frpcontroller.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="2"/>
         <TopLine Value="15"/>
         <CursorPos X="8" Y="30"/>
         <UsageCount Value="63"/>
@@ -41,7 +42,7 @@
       <Unit>
         <Filename Value="httpserver.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="4"/>
         <TopLine Value="44"/>
         <CursorPos X="72" Y="74"/>
         <UsageCount Value="63"/>
@@ -151,7 +152,7 @@
       </Unit>
       <Unit>
         <Filename Value="C:\Apps\lazarus\fpcsrc\rtl\objpas\classes\classesh.inc"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="3"/>
         <TopLine Value="1014"/>
         <CursorPos X="15" Y="1036"/>
         <UsageCount Value="12"/>
@@ -201,14 +202,6 @@
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="frpcontroller.pas"/>
-        <Caret Line="80" Column="29" TopLine="49"/>
-      </Position>
-      <Position>
-        <Filename Value="frpcontroller.pas"/>
-        <Caret Line="79" Column="34" TopLine="38"/>
-      </Position>
       <Position>
         <Filename Value="frpcontroller.pas"/>
         <Caret Line="79" Column="38" TopLine="49"/>
@@ -320,6 +313,14 @@
       <Position>
         <Filename Value="common.pas"/>
         <Caret Line="43" Column="10" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="frpnode.lpr"/>
+        <Caret Line="20" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="global.pas"/>
+        <Caret Line="14" Column="11"/>
       </Position>
     </JumpHistory>
     <RunParams>

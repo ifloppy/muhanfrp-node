@@ -18,7 +18,7 @@ var
 begin
   //Read config
   ReadJsonConfig();
-  ReadTomlConfig('D:\MuhanFrpManagement\node\test\frps.toml');
+  ReadTomlConfig(configJson.Strings['frps_config_path']);
 
   InitFrpProcess;
   //StartFrp();
